@@ -1,0 +1,22 @@
+{
+  "name": "testgithost",
+  "version": "1.0.0",
+  "description": "this is just for testing git host",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mcx002/testGitHost.git"
+  },
+  "author": "Mcx002",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mcx002/testGitHost/issues"
+  },
+  "homepage": "https://github.com/Mcx002/testGitHost#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
